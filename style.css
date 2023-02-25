@@ -1,0 +1,19 @@
+section{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+section a{
+    text-decoration: none;
+}
+.button{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    background: linear-gradient( rgb(43 121 211), rgb(45 138 211));
+    width: 300px;
+    height: 75px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 1px black
+}
